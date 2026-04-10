@@ -1,0 +1,35 @@
+# Data
+data/
+
+# Python cache / modules
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.venv/
+.ipython/
+.ipynb_checkpoints/
+
+# Colab / Jupyter
+.ipynb
+# If you want to keep notebooks in repo, remove the line above
+*.ipynb
+
+# OS / temporary files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE / editors
+.vscode/
+.idea/
+*.swp
+*.swo
